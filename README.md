@@ -10,7 +10,8 @@ Ce dépôt regroupe des scripts PowerShell conçus pour l'administration systèm
 
 **À propos**
 Ce projet est une collection de scripts PowerShell visant à automatiser les tâches courantes d'administration système, telles que la gestion d'utilisateurs, la maintenance des serveurs, les audits de sécurité, et bien plus encore. Il est destiné aux administrateurs système souhaitant optimiser leur flux de travail.
-🔍 Fonctionnalités
+
+**Fonctionnalités**
 
     Automatisation de la gestion des utilisateurs et groupes
     Maintenance et suivi des serveurs
@@ -42,7 +43,7 @@ User-Audit.ps1	Réalise un audit complet des utilisateurs et génère un rapport
 Monitor-Services.ps1	Surveille l'état des services critiques et envoie des alertes en cas de problème
 Network-Config.ps1	Configure et optimise les paramètres réseau selon les spécifications
 
-    Note : Chaque script est documenté dans sa partie Description avec les paramètres d’entrée et des exemples d'utilisation.
+    **Note** : Chaque script est documenté dans sa partie Description avec les paramètres d’entrée et des exemples d'utilisation.
 
 **Contribution**
 
