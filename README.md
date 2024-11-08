@@ -3,6 +3,7 @@
 Ce dépôt regroupe des scripts PowerShell conçus pour l'administration système, la gestion automatisée, et l'optimisation de l'infrastructure IT. Chaque script est pensé pour être facilement déployable, maintenable, et réutilisable.
 
 **Table des Matières**
+
     À propos
     Installation
     Scripts disponibles
@@ -10,6 +11,7 @@ Ce dépôt regroupe des scripts PowerShell conçus pour l'administration systèm
     Licence
 
 **À propos**
+
 Ce projet est une collection de scripts PowerShell visant à automatiser les tâches courantes d'administration système, telles que la gestion d'utilisateurs, la maintenance des serveurs, les audits de sécurité, et bien plus encore. Il est destiné aux administrateurs système souhaitant optimiser leur flux de travail.
 
 **Fonctionnalités**
@@ -37,6 +39,7 @@ Exécutez les scripts PowerShell avec les privilèges administratifs.
     Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 **Scripts disponibles**
+
 Script	Description
 Install-Software.ps1	Installe les logiciels définis en liste, avec vérification de présence préalable
 Backup-Data.ps1	Réalise une sauvegarde des fichiers critiques de manière programmée
@@ -61,4 +64,5 @@ Les contributions sont les bienvenues ! Veuillez consulter le guide CONTRIBUTING
 
 Ce projet est sous licence MIT. Veuillez consulter le fichier LICENSE pour plus d'informations.
 
-**Contact** : Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue ou à me contacter directement.
+**Contact** 
+Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue ou à me contacter directement.
