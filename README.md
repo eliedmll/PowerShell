@@ -65,4 +65,5 @@ Les contributions sont les bienvenues ! Veuillez consulter le guide CONTRIBUTING
 Ce projet est sous licence MIT. Veuillez consulter le fichier LICENSE pour plus d'informations.
 
 **Contact** 
+
 Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue ou à me contacter directement.
